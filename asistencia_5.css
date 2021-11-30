@@ -1,0 +1,71 @@
+header{
+    background-color: #008BFF;
+    padding-bottom: 20px;
+}
+
+.cabecera{
+    margin-top: 30px;
+}
+
+.texto{
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 50px;
+    border-radius: 10px;
+    transition: all 0.2s;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+
+.texto:hover{
+    background-color: white;
+    color: black;
+}
+
+.rojo{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.titulos{
+    font-size: 30px;
+    font: helvetica;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.relleno{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.botones{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(0, 81, 255);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.botones:hover{
+    color: blue;
+    background-color: white;
+}
+
+.minombre{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}

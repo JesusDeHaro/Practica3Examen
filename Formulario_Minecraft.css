@@ -1,0 +1,41 @@
+body{
+    background: url("https://i.pinimg.com/originals/53/51/09/535109e4ab3c71e23bcea45c8afdf37d.jpg");
+    background-repeat: no-repeat;
+}
+
+.FondoForm{
+    width: 500px;
+    background-color: rgb(247, 172, 81);
+    margin: auto;
+    border-radius: 10px;
+}
+
+.datos{
+    width: 400px;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+form{
+    padding-left: 50px;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+button{
+    margin-bottom: 30px;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    font-weight: bolder;
+}
